@@ -1,0 +1,36 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+  text-align:center;
+}
+#wrapper{
+    width:600px;
+    height:300px;
+    margin:100px auto;
+    background-color:rgb(138, 138, 224);
+}
+.wrapper-one{
+    width:600px;
+    height:150px;
+    padding-top:50px;
+    text-align:center;
+    font-size:25px;
+}
+.wrapper-one input{
+    font-size:24px;
+    margin:5px;
+}
+button{
+    width:250px;
+    font-size:18px;
+    margin:10px ;
+    padding:5px;
+    background-color:rgb(169, 66, 216);
+
+}
+#result{
+    font-size:25px;
+    color:yellow;
+    background-color: rgb(161, 63, 170);
+}

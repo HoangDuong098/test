@@ -1,0 +1,14 @@
+.top {
+    text-align: center;
+    margin-top:20px;
+}
+input{
+    color:rgb(255, 18, 140);
+}
+button{
+    color:rgb(53, 53, 223);
+    background-color: rgb(206, 54, 220);
+}
+#result{
+    color:rgb(197, 42, 231);
+}
